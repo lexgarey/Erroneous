@@ -1,0 +1,9 @@
+{
+  "name": "erroneous",
+  "description": "A pattern to display application errors to the user and works with Blaze",
+  "homepage": "https://github.com/lexgarey/erroneous", 
+  "version": "0.1.0",
+  "git": "https://github.com/lexgarey/erroneous.git",
+  "packages": {
+  }
+}
